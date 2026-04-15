@@ -66,6 +66,11 @@ cd backend
 npm install
 nodemon server.js
 
+###--frontend setup
+cd frontend
+npm install
+npm run dev
+
 PORT=5000
 MONGO_URI=mongodb+srv://Mango:alooleeloo@cluster0.ehktz0j.mongodb.net/
 JWT_SECRET=7f3c9a1d8b6e4f2c9d0a1b7e8f6c3d9a5b2e1f4c8d7a6b9c0d1e2f3a4b5c6d7
